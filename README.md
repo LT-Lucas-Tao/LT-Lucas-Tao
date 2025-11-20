@@ -65,4 +65,4 @@ Coming soon — will be hosted using GitHub Pages.
 ---
 
 ## Contact
-Email: *(add your email here)*  
+Email: TerminatorWaffleYT@gmail.com
